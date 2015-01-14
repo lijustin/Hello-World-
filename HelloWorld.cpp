@@ -2,6 +2,6 @@
 
 int main()
  {
-  cout << "Hello WOrld!" << endl;
+  cout << "Fight On!" << endl;
   return 0;
  }
